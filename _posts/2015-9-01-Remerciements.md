@@ -4,7 +4,7 @@ title:  "Remerciements"
 ---
 
 <br>
-<img src="{{site.url}}/assets/multi.jpg" style="width:100%">
+<img src="https://leclairdelumier.github.io/new/assets/multi.jpg" style="width:100%">
 
 <p style="text-align:justify;">Je tiens à remercier toutes les personnes qui m'ont aidé lors de la rédaction de ce espacementWeb.<br>
 
@@ -14,7 +14,7 @@ Je remercie également toute l'équipe Multihexa pour leur accueil, leur esprit 
 
 Enfin, je tiens à remercier toutes les personnes qui m'ont conseillé et relu lors de la rédaction de ce siteWeb: mon amie <span style="color:green;"> AyoubBakaâda </span>camarade de promotion. </p><br>
 
-<img src="{{site.url}}/assets/espe.jpg" style="width:100% ;">
+<img src="https://leclairdelumier.github.io/new/assets/espe.jpg" style="width:100% ;">
 
 <p> L'élaboration de ce siteWeb n'aurait pu étre effectuée sans l'éffort de certaines personnes avec moi, c'est pour cela que je tiens de remercier infiniment tout les personnes  CONSTITUANT de l'etablissement G.espegic Khemisset.<br>
 	Mes vifs remerciement s'adressent a :
@@ -30,4 +30,4 @@ Enfin, je tiens à remercier toutes les personnes qui m'ont conseillé et relu l
 	 Pour l'orientation qu'elles m'ont accordé durant l'année de formation 2015/2016
 	</p><br>
 
-<img src="{{site.url}}/assets/tak.jpg" style="width:100% ;">
+<img src="https://leclairdelumier.github.io/new/assets/tak.jpg" style="width:100% ;">
