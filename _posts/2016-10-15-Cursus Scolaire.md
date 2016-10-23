@@ -20,19 +20,19 @@ title:  "Cursus Scolaire et Universitaire"
 <div class="row">
   <div class="col-xs-6" style="margin-left:10%; margin-right:10%;">
 
-  	<a href="www.ofppt.ma"><img src="{{site.url}}/assets/offpt.png" style="width:120px; height:120px;"></a>
+  	<a href="www.ofppt.ma"><img src="https://leclairdelumier.github.io/new/assets/offpt.png" style="width:120px; height:120px;"></a>
   	
 
  </div>
   <div class="col-xs-8"  style="margin-left:10%; margin-right:10%;">
 
-<a href="www.espegic.ma"><img src="{{site.url}}/assets/espegic.jpg"></a>
+<a href="www.espegic.ma"><img src="https://leclairdelumier.github.io/new/assets/espegic.jpg"></a>
 	
   </div>
 
 
   <div class="col-xs-10"  style="margin-left:10%; margin-right:10%;">
-	<a href="www.multihexa-meknes.ma"><img src="{{site.url}}/assets/multihexa.jpg" style="width:120px; height:120px;" ></a>
+	<a href="www.multihexa-meknes.ma"><img src="https://leclairdelumier.github.io/new/assets/multihexa.jpg" style="width:120px; height:120px;" ></a>
   </div>
 
 
