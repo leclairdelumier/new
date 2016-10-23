@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-10-22T23:59:50+00:00</updated><id>http://localhost:4000//</id><title type="html">AnasIjji</title><subtitle>Developpement Informatique? C Ma patience; Venez vous bein de Decouvrire mon soit,Mes compétence, loisire et mes centre d'intéret sur Ce Espace site, Avec toutes mes meillieur voeux de bien pour que vous amusez avec cette Visite.
+</subtitle><entry><title type="html">Cursus Scolaire et Universitaire</title><link href="http://localhost:4000/2016/10/15/Cursus-Scolaire.html" rel="alternate" type="text/html" title="Cursus Scolaire et Universitaire" /><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><id>http://localhost:4000/2016/10/15/Cursus%20Scolaire</id><content type="html" xml:base="http://localhost:4000/2016/10/15/Cursus-Scolaire.html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul style=&quot;list-style:initial; margin-left:10%; margin-right:10%; text-align:justify; color:#49566e;&quot;&gt;
+&lt;li&gt;Inphographiste qualifiant Par Anapec 2016&lt;/li&gt;
+&lt;li&gt;Technicien specialisée en Développement Informatique&lt;/li&gt;
+&lt;li&gt;Une année de formation en audiovisuel(BigSoft) Rabat&lt;/li&gt;
+&lt;li&gt;Baccalauréat 2012 au lycée EL Yasmine khemisset(option SVT)&lt;/li&gt;
+&lt;li&gt;Etudes secondaires au lycée Med VI â Ouarzazate&lt;/li&gt;
+&lt;li&gt;Etudes Primaires Ouarzazate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 style=&quot;color:#273e3b; margin-left:10%; margin-right:10%;&quot;&gt;  Reference école :&lt;/h2&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-xs-6&quot; style=&quot;margin-left:10%; margin-right:10%;&quot;&gt;
+
+  	&lt;a href=&quot;www.ofppt.ma&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/offpt.png&quot; style=&quot;width:120px; height:120px;&quot; /&gt;&lt;/a&gt;
+  	
+
+ &lt;/div&gt;
+  &lt;div class=&quot;col-xs-8&quot; style=&quot;margin-left:10%; margin-right:10%;&quot;&gt;
+
+&lt;a href=&quot;www.espegic.ma&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/espegic.jpg&quot; /&gt;&lt;/a&gt;
+	
+  &lt;/div&gt;
+
+
+  &lt;div class=&quot;col-xs-10&quot; style=&quot;margin-left:10%; margin-right:10%;&quot;&gt;
+	&lt;a href=&quot;www.multihexa-meknes.ma&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/multihexa.jpg&quot; style=&quot;width:120px; height:120px;&quot; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 style=&quot; margin-left:10%; margin-right:10%;&quot;&gt;Pour Vos questions,votre Propositions...&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;disqus_thread&quot; style=&quot;margin-left:25px; margin-right:25px;&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//anas4dev.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;</content><summary type="html"></summary></entry><entry><title type="html">Stage de Formation</title><link href="http://localhost:4000/2016/09/15/Stage-De-Formation.html" rel="alternate" type="text/html" title="Stage de Formation" /><published>2016-09-15T00:00:00+00:00</published><updated>2016-09-15T00:00:00+00:00</updated><id>http://localhost:4000/2016/09/15/Stage-De-Formation</id><content type="html" xml:base="http://localhost:4000/2016/09/15/Stage-De-Formation.html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul style=&quot;list-style:initial;  margin-left:10%; margin-right:10%; color:#49566e; text-align:justify; &quot;&gt;
+
+
+&lt;li&gt;Guichetier payeur a la caisse regionale du Credit Agricole du Maroc Ouarzazate 2015.&lt;/li&gt;
+&lt;li&gt;Stage au sein de la société de financement pour le Déveleopement Agricole Khemisset 2016.&lt;/li&gt;
+
+
+
+
+
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><summary type="html"></summary></entry><entry><title type="html">Compétence</title><link href="http://localhost:4000/2016/08/15/Competence.html" rel="alternate" type="text/html" title="Compétence" /><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><id>http://localhost:4000/2016/08/15/Competence</id><content type="html" xml:base="http://localhost:4000/2016/08/15/Competence.html">&lt;!-- Stack the columns on mobile by making one full-width and the other half-width --&gt;
+&lt;div class=&quot;row&quot; style=&quot;margin-left:13%; color:#49566e;&quot;&gt;
+  &lt;div class=&quot;col-xs-6&quot;&gt;
+&lt;h2&gt;Techniques&lt;/h2&gt;
+  	&lt;ul style=&quot;list-style:initial;&quot;&gt;
+
+&lt;li&gt;Analyse de projet&lt;/li&gt;
+&lt;li&gt;Management d’équipe&lt;/li&gt;
+&lt;li&gt;Gestion du temps&lt;/li&gt;
+&lt;li&gt;Création de site Web&lt;/li&gt;
+&lt;li&gt;Techniques bancaires&lt;/li&gt;
+  	&lt;/ul&gt;
+ &lt;/div&gt;
+  &lt;div class=&quot;col-xs-12&quot; style=&quot;margin-left: 8%; margint-right:50%;&quot;&gt;
+
+&lt;h2&gt;Langue Etrangere&lt;/h2&gt;
+	&lt;ul style=&quot;list-style:initial;&quot;&gt;
+&lt;li&gt;Arabe: Courant&lt;/li&gt;
+&lt;li&gt;Français: Moyen/Bien &lt;/li&gt;
+&lt;li&gt;Anglais: Moyen&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><summary type="html">Techniques</summary></entry><entry><title type="html">Dedicas</title><link href="http://localhost:4000/2015/10/01/Dedicas.html" rel="alternate" type="text/html" title="Dedicas" /><published>2015-10-01T00:00:00+00:00</published><updated>2015-10-01T00:00:00+00:00</updated><id>http://localhost:4000/2015/10/01/Dedicas</id><content type="html" xml:base="http://localhost:4000/2015/10/01/Dedicas.html">&lt;div style=&quot;margin-left:12%;&quot;&gt;
+	
+&lt;h4&gt;Spécial Dédicas Â Mes parents :&lt;/h4&gt;
+	&lt;ul style=&quot;text-align:justify; margin-left:56%; margin-top:-6%;&quot;&gt;
+	&lt;li&gt; - Mr.Mohammed IJJI&lt;/li&gt;
+	&lt;li&gt; - Mme.Fatima Ezzahraoui&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;h5&gt;Dédicas Mon grand Pére :&lt;/h5&gt;
+	&lt;ul style=&quot;text-align:justify; margin-left:56%; margin-top:-6%&quot;&gt;
+		&lt;li&gt; - moulay.Ahamed Ijji&lt;/li&gt;	
+	&lt;/ul&gt;
+
+	&lt;h6&gt;Dédicas Mes cher frére :&lt;/h6&gt;
+	&lt;ul style=&quot;text-align:justify; margin-left:56%; margin-top:-5%;&quot;&gt;
+		&lt;li&gt; - Issam Ijji&lt;/li&gt;
+		&lt;li&gt; - Rayane Ijji&lt;/li&gt;
+	&lt;/ul&gt;
+
+
+
+&lt;/div&gt;</content><summary type="html">Spécial Dédicas Â Mes parents :
+	
+	 - Mr.Mohammed IJJI
+	 - Mme.Fatima Ezzahraoui</summary></entry><entry><title type="html">Remerciements</title><link href="http://localhost:4000/2015/09/01/Remerciements.html" rel="alternate" type="text/html" title="Remerciements" /><published>2015-09-01T00:00:00+00:00</published><updated>2015-09-01T00:00:00+00:00</updated><id>http://localhost:4000/2015/09/01/Remerciements</id><content type="html" xml:base="http://localhost:4000/2015/09/01/Remerciements.html">&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/multi.jpg&quot; style=&quot;width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify;&quot;&gt;Je tiens à remercier toutes les personnes qui m'ont aidé lors de la rédaction de ce espacementWeb.&lt;br /&gt;
+
+Tout d'abord, j'adresse mes remerciements à ma professeure, Mme.sara de l'école Multihexa qui m'a beaucoup aidé dans la Conception du site. Son écoute et ses conseils m'ont permis de cibler mes candidatures, et de trouver la formation en totale adéquation avec mes attentes.&lt;br /&gt;
+
+Je remercie également toute l'équipe Multihexa pour leur accueil, leur esprit d'équipe et en particulier Mr Soufiane Najihi&amp;amp; Mr issam, qui ont m'a beaucoup aidé à comprendre les differents methodologie concereneant le déroulement de la formation...&lt;br /&gt;
+
+Enfin, je tiens à remercier toutes les personnes qui m'ont conseillé et relu lors de la rédaction de ce siteWeb: mon amie &lt;span style=&quot;color:green;&quot;&gt; AyoubBakaâda &lt;/span&gt;camarade de promotion. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/espe.jpg&quot; style=&quot;width:100% ;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; L'élaboration de ce siteWeb n'aurait pu étre effectuée sans l'éffort de certaines personnes avec moi, c'est pour cela que je tiens de remercier infiniment tout les personnes  CONSTITUANT de l'etablissement G.espegic Khemisset.&lt;br /&gt;
+	Mes vifs remerciement s'adressent a :
+	&lt;ul style=&quot;list-style:initial;&quot;&gt;
+		&lt;li&gt;Mr.Ahmed Moumouch: DirecteurGenerale &lt;/li&gt;
+		&lt;li&gt;Mr.Hakim: secretaire generale &lt;/li&gt;
+		&lt;li&gt;Mr.Abdelouahed Makhroubi&lt;/li&gt;
+		&lt;li&gt;Mr.Youness Belfareh&lt;/li&gt;
+		&lt;li&gt;Mr.Zouheir Belfareh&lt;/li&gt;
+		&lt;li&gt;Mr.Mustapha kheiy&lt;/li&gt;
+		&lt;li&gt;Mlle .siham&lt;/li&gt;
+	&lt;/ul&gt;
+	 Pour l'orientation qu'elles m'ont accordé durant l'année de formation 2015/2016
+	&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/tak.jpg&quot; style=&quot;width:100% ;&quot; /&gt;&lt;/p&gt;</content><summary type="html"></summary></entry></feed>
