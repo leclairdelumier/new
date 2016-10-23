@@ -20,7 +20,7 @@ title:  "Cursus Scolaire et Universitaire"
 <div class="row">
   <div class="col-xs-6" style="margin-left:10%; margin-right:10%;">
 
-  	<a href="http://www.ofppt.ma/"><img src="https://leclairdelumier.github.io/new/assets/offpt.png" style="width:120px; height:120px;"></a>
+  	<img src="https://leclairdelumier.github.io/new/assets/offpt.png" style="width:120px; height:120px;"><a href="http://www.ofppt.ma/">Offpt</a></img>
   	
 
  </div>
