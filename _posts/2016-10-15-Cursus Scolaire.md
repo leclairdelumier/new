@@ -26,8 +26,9 @@ title:  "Cursus Scolaire et Universitaire"
  </div>
   <div class="col-xs-8"  style="margin-left:10%; margin-right:10%;">
 
-<a href="http://www.espegic.ma/"><img src="https://leclairdelumier.github.io/new/assets/espegic.jpg" style="width:120px; height:120px;"></a>
-	
+<a href="www.espegic.ma"/>
+<img src="https://leclairdelumier.github.io/new/assets/espegic.jpg" style="width:120px; height:120px;">
+</a>	
   </div>
 
 
