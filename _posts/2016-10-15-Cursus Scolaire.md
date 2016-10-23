@@ -33,7 +33,9 @@ title:  "Cursus Scolaire et Universitaire"
 
 
   <div class="col-xs-10"  style="margin-left:10%; margin-right:10%;">
-	<a href="www.multihexa-meknes.ma"/><img src="https://leclairdelumier.github.io/new/assets/multihexa.jpg" style="width:120px; height:120px;" ></a>
+  <a href="www.multihexa-meknes.ma/"/>
+	<img src="https://leclairdelumier.github.io/new/assets/multihexa.jpg" style="width:120px; height:120px;" >
+	</a>
   </div>
 
 
