@@ -17,7 +17,7 @@ title:  "Cursus Scolaire et Universitaire"
 
 <h2 style="color:#273e3b; margin-left:10%; margin-right:10%;">  Reference école :</h2>
 
-<div class="row">
+<div class="row" style="text-align:center;">
   <div class="col-xs-6" style="margin-left:10%; margin-right:10%;">
 
   	<a href="http://www.ofppt.ma/"><img src="https://leclairdelumier.github.io/new/assets/offpt.png" style="width:120px; height:120px;"></a>
