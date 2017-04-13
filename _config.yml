@@ -16,7 +16,7 @@
 title: AnasIjji
 email: leclairdelumier@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Developpement Informatique? C'est Ma patience; Venez vous bien de Decouvrire mon sois,Mes compétences, loisires et mes centres d'intérêts sur Ce Espace site, Avec toutes mes meilleurs voeux de bien pour que vous amusez avec cette Visite. BigUp - ChaimaeBenfaddoul. -imane
+  Developpement Informatique? C'est Ma patience; Venez vous bien de Decouvrire mon sois,Mes compétences, loisires et mes centres d'intérêts sur Ce Espace site, Avec toutes mes meilleurs voeux de bien pour que vous amusez avec cette Visite.
 baseurl: "/new/" # the subpath of your site, e.g. /blog
 url: "leclairdelumier.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 paginate: 3
